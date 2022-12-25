@@ -1,0 +1,22 @@
+/* 
+    Created on : 2022年3月16日, 下午12:39:41
+    Author     : Notime
+*/
+body {
+    background-color: white;
+}
+
+caption {
+    font-weight:bold;
+    color: black;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: lemonchiffon;
+    width: 90%;
+}
+
+.jumbotron {
+    background-color:#CCCC66;
+}
